@@ -1,1 +1,1 @@
-# Deep_Learning_HW1_Leaf_Classification
+# Deep Learning - Homework 1 - Leaf Classification
