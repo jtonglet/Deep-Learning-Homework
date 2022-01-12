@@ -8,3 +8,7 @@
 [![Codalab](https://img.shields.io/badge/closed-codalab-green)](https://codalab.lisn.upsaclay.fr/competitions/226)
 
 ## Overview
+
+This repository contains the jupyter notebooks used for the first homework of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Borachi at Politecnico di Milano. 
+
+The first homework consisted in an image classification task. The dataset consists of leaves pictures, grouped into 14 different classes.
