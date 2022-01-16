@@ -9,6 +9,6 @@
 
 ## Overview
 
-This repository contains the jupyter notebooks used for the first homework of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Borachi at Politecnico di Milano. 
+This repository contains the jupyter notebooks used for the first homework of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Boracchi at Politecnico di Milano. 
 
 The first homework consisted in an image classification task. The dataset consists of leaves pictures, grouped into 14 different classes.
