@@ -15,6 +15,6 @@ The first homework consisted in an image classification task. The dataset contai
 
 ## CNN Model
 
-To solve the task, we implemented a Convolutional Neural Network. The architecture is shown below.
+To solve the task, we implemented a Convolutional Neural Network. The architecture of the model is shown below.
 
 ![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/architecture.PNG?raw=true)
