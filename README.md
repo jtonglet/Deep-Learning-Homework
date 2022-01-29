@@ -11,4 +11,10 @@
 
 This repository contains the jupyter notebooks used for the first homework of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Boracchi at Politecnico di Milano. 
 
-The first homework consisted in an image classification task. The dataset consists of leaves pictures, grouped into 14 different classes.
+The first homework consisted in an image classification task. The dataset contains pictures of leaves belonging to 14 different species and is characterized by a strong class imbalance. 
+
+## CNN Model
+
+To solve the task, we implemented a Convolutional Neural Network. The architecture is shown below.
+
+![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/architecture.png?raw=true)
