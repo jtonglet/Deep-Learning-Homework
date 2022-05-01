@@ -13,17 +13,17 @@ This repository contains the jupyter notebook used for the first homework of the
 
 The first homework consisted in an image classification task. The dataset contains pictures of leaves belonging to 14 different species and is characterized by a strong class imbalance. In particular, tomato leaves are significantly overrepresented, as shown on the following picture :
 
-![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/architecture.PNG?raw=true)
+![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/img/distribution.PNG?raw=true)
 
 
 ## CNN Model
 
 To solve the task, we implemented a Convolutional Neural Network. The architecture of the model is shown below.
 
-![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/architecture.PNG?raw=true)
+![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/img/architecture.PNG?raw=true)
 
 ## Results 
 
 Our model achieves an accuracy of 94.5% on the validation set. The confusion matrix is shown below. 
 
-![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/architecture.PNG?raw=true)
+![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/cm.PNG?raw=true)
