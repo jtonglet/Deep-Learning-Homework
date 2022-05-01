@@ -26,4 +26,4 @@ To solve the task, we implemented a Convolutional Neural Network. The architectu
 
 Our model achieves an accuracy of 94.5% on the validation set. The confusion matrix is shown below. 
 
-![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/cm.PNG?raw=true)
+![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/CM.PNG?raw=true)
