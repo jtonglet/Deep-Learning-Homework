@@ -22,7 +22,9 @@ The dataset contains pictures of leaves belonging to 14 different species and is
 
 ### Overview
 
-The second homework consisted in a multivariate time series forecasting task. The dataset includes 7 time series. The goal is to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the next 864 time steps. Predictions were evaluated with the RMSE on a hidden test set. By using the N-BEATS model we achieved a final score of 3.79.
+The second homework consisted in a multivariate time series forecasting task. The dataset includes 7 time series. The goal was to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the next 864 time steps.
+Predictions were evaluated with the RMSE on a hidden test set. 
+By using the N-BEATS model we achieved a final RMSE score of 3.79.
 
  ### Reference 
  
