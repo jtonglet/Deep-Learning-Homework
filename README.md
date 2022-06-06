@@ -27,3 +27,25 @@ To solve the task, we implemented a Convolutional Neural Network. The architectu
 Our model achieves an accuracy of 94.5% on the validation set. The confusion matrix is shown below. 
 
 ![alt text](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/img/cm.PNG?raw=true)
+
+
+# Deep Learning Homework2  Forecasting
+
+
+<p align="center">
+  <img width="50%" src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=806&q=80" alt="header" />
+</p>
+
+
+[![Codalab](https://img.shields.io/badge/closed-codalab-green)](https://codalab.lisn.upsaclay.fr/competitions/621)
+
+## Overview
+
+This repository contains the jupyter notebook used for the second homework of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Boracchi at Politecnico di Milano in 2022. 
+
+The second homework consisted in a multivariate time series forecasting task. The dataset includes 7 time series. The goal is to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the next 864 time steps. Predictions were evaluated with the RMSE on a hidden test set. By using the N-BEATS model we achieved a final score of 3.79.
+
+ ## Reference 
+ 
+ Oreshkin, B. N., Carpov, D., Chapados, N., & Bengio, Y. (2019). N-BEATS: Neural basis expansion analysis for interpretable time series forecasting.
+
