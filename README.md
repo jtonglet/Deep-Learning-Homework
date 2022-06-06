@@ -1,4 +1,4 @@
-# Artificial Neural Networks and Deep Learning assignments
+# Artificial Neural Networks and Deep Learning homeworks
 
 This repository contains the jupyter notebook used for the two homeworks of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Boracchi at Politecnico di Milano. 
 
