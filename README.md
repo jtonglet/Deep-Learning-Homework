@@ -15,7 +15,7 @@ The dataset contains pictures of leaves belonging to 14 different species and is
 
 
 
-## Homework2  Forecasting  
+## Homework 2 : Forecasting   🔮🧙‍♂️⏳
 
 
 [![Codalab](https://img.shields.io/badge/closed-codalab-green)](https://codalab.lisn.upsaclay.fr/competitions/621)
