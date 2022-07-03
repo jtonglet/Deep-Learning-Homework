@@ -1,6 +1,6 @@
 # Artificial Neural Networks and Deep Learning homeworks
 
-This repository contains the jupyter notebook used for the two homeworks of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Boracchi at Politecnico di Milano. 
+This repository contains the jupyter notebooks used for the two homeworks of the Artificial Neural Networks & Deep Learning course given by Professors Matteuci and Boracchi at Politecnico di Milano. 
 
 ## Homework 1 : Leaf Classification   🍂🍃🍁🌿
 
@@ -13,6 +13,7 @@ The dataset contains pictures of leaves belonging to 14 different species and is
 
 ![distribution](https://github.com/jtonglet/Deep-Learning-HW1-Leaf-Classification/blob/main/img/distribution.PNG?raw=true)
 
+To solve the problem, we used a weighted ensemble of 5 pre-trained models (EfficientNetB3, VGG16, ResNet50, Xception and DenseNet121). The models were fine-tuned on the train set. The ensemble achieved an accuracy of 90.57% on the hidden test set.
 
 
 ## Homework 2 : Forecasting   🔮🧙‍♂️⏳
